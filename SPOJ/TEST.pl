@@ -1,3 +1,4 @@
+#Busy Newbie got AC somehow :)
 @numbers=();
 $inp=<STDIN>;
 while ($inp!=42)
@@ -9,4 +10,3 @@ while ($inp=shift(@numbers))
 {
 	print "$inp";
 }
-#print "@numbers";

@@ -1,3 +1,4 @@
+#Busy Newbie got AC somehow :)
 while True:
 	a,b,c=raw_input().split()
 	A,B,C=int(a),int(b),int(c)
