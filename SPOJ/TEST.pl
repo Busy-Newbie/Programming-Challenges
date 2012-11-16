@@ -7,6 +7,6 @@ while ($inp!=42)
 	$inp=<STDIN>;
 }
 while ($inp=shift(@numbers))
-{
+{ 
 	print "$inp";
 }
